@@ -22,6 +22,8 @@ SegFormer-B0 (the base variant) was chosen for its compact size, making it suita
 | **SegFormer-B0 (selected)** | **0.9119** | **0.9227** | **0.9598** | **84.6** |
 | DeepLabV3-MobileNetV3 | 0.8674 | 0.9048 | 0.9500 | 20.3 |
 
+## Graph Results
+
 ![Validation curves](images/graphs.png)
 
 ## Results
