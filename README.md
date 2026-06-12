@@ -26,7 +26,7 @@ SegFormer-B0 (the base variant) was chosen for its compact size, making it suita
 
 ![Validation curves](images/graphs.png)
 
-## Results
+## Inference Results
 
 ![Sample input image uploaded to the Streamlit inference UI](images/test_input.png)
 
