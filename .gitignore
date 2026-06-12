@@ -1,0 +1,33 @@
+# Dataset
+Surgical Instruments Dataset/
+
+# Model checkpoints (tracked in repo, uncomment to ignore locally)
+# checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment
+.env
+.venv
+venv/
+env/
+
+# Streamlit config (local)
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
